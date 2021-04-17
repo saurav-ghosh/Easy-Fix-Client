@@ -62,7 +62,7 @@ const Orders = () => {
                                 orders.map((order, index) => (
                                     <tr>
                                         <td>{index + 1}</td>
-                                        <td>{loggedInUser.email}</td>
+                                        <td>{order.email}</td>
                                         <td>{order.serviceName}</td>
                                         <td>Card</td>
                                         <td>
