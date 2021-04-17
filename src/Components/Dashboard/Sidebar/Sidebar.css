@@ -1,0 +1,17 @@
+.sidebar {
+    background-image: linear-gradient(45deg, #9aca40, #70b3bc);
+    height: 100vh;
+    position: fixed;
+    left: 0;
+}
+.sidebar li {
+    color: white;
+}
+.dashboard-logo {
+    margin-bottom: -30px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.shop-name {
+    color: white;
+}

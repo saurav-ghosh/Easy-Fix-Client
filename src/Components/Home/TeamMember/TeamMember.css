@@ -1,0 +1,10 @@
+.team-card img {
+    width: 245px;
+    height: 300px;
+}
+.team-card h4 {
+    display: inline;
+}
+.team-card:last-child {
+    margin-right: 15px;
+}
